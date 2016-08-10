@@ -1,0 +1,25 @@
+{
+  "name": "pug-test",
+  "version": "1.0.0",
+  "description": "Compilando pug e sass com watch",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-pug": "^3.0.4",
+    "gulp-sass": "^2.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmodena/pug-test.git"
+  },
+  "author": "Douglas Modena",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dmodena/pug-test/issues"
+  },
+  "homepage": "https://github.com/dmodena/pug-test#readme"
+}
